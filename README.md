@@ -158,7 +158,7 @@ python app.py
 
 ---
 
-## 📄 License
+## License
 
 This project is intended for **research and educational use**.  
 Please contact the author for commercial or operational deployment.
