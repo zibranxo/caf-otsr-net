@@ -124,7 +124,7 @@ This directly improves the **accuracy and stability** of both **CWSI** and **SWT
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1️. Install dependencies
 ```bash
