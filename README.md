@@ -85,7 +85,7 @@ SWTI detects and analyzes **thermal anomalies and plumes** in rivers, lakes, and
 
 ---
 
-## 🧩 Why Super-Resolution Matters
+## Why Super-Resolution Matters
 
 Thermal sensors are typically **lower resolution** than optical sensors.  
 CAF-OTSRNet improves:
